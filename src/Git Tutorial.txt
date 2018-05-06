@@ -17,3 +17,12 @@ git commit -m "FirstCommit"
 
 git add -A //Adding all the file to index
  git commit -a -m "adding filetogether"	//Committing multiple files
+ 
+ 
+ git branch firstbranch //Creating a branch
+ 
+  git checkout firstbranch //start working on new branch
+  
+  git merge firstbranch//merging code to main franch
+  
+ 
