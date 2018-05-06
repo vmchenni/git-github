@@ -22,7 +22,10 @@ git add -A //Adding all the file to index
  git branch firstbranch //Creating a branch
  
   git checkout firstbranch //start working on new branch
+<<<<<<< HEAD
   
   git merge firstbranch//merging code to main franch
   
+=======
+>>>>>>> firstbranch
  
