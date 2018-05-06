@@ -14,3 +14,6 @@ git pull origin master
 Committed snapshot will never change unless done exlicitly
 
 git commit -m "FirstCommit"
+
+git add -A //Adding all the file to index
+ git commit -a -m "adding filetogether"	//Committing multiple files
