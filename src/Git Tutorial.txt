@@ -1,0 +1,16 @@
+Open GitBash by right clicking into your project folder
+
+//establishing the connection between local repository and github
+git remote add origin "https://github.com/vmchenni/git-github.git"
+
+//To pull the code to local repository
+git pull origin master
+
+//git status -> tells which files are added to index and re readty to commit
+
+//git add :->Lets you add files to your index ie: local repository
+
+//git commit -> It refers to recording snapshots of the repository at given times
+Committed snapshot will never change unless done exlicitly
+
+git commit -m "FirstCommit"
