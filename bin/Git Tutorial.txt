@@ -28,8 +28,15 @@ git add -A //Adding all the file to index
   
   
  //pushing existing folder to github-Added on 13 May 2018
-  git remote add origin https://github.com/vmchenni/git-github.git
-  git push -u origin master
+  01. open git bash
+  02. make connection
+   		git remote add origin https://github.com/vmchenni/git-github.git
+  03. get git status
+  		git status
+  04. Comit the changed files
+ 		 git commit -a -m "adding filetogether"
+  05. push the file to sever
+  		git push -u origin master
  
  
 =======
