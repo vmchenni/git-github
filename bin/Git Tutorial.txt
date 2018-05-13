@@ -1,4 +1,17 @@
+
 Open GitBash by right clicking into your project folder
+
+ //pushing existing folder to github-Added on 13 May 2018
+  01. open git bash
+  02. make connection
+   		git remote add origin https://github.com/vmchenni/git-github.git
+  03. get git status
+  		git status
+  04. Comit the changed files
+ 		 git commit -a -m "adding filetogether"
+  05. push the file to sever
+  		git push -u origin master
+  
 
 //establishing the connection between local repository and github
 git remote add origin "https://github.com/vmchenni/git-github.git"
@@ -27,16 +40,7 @@ git add -A //Adding all the file to index
   git merge firstbranch//merging code to main franch
   
   
- //pushing existing folder to github-Added on 13 May 2018
-  01. open git bash
-  02. make connection
-   		git remote add origin https://github.com/vmchenni/git-github.git
-  03. get git status
-  		git status
-  04. Comit the changed files
- 		 git commit -a -m "adding filetogether"
-  05. push the file to sever
-  		git push -u origin master
+
  
  
 =======
