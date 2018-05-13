@@ -7,6 +7,7 @@ Open GitBash by right clicking into your project folder
    		git remote add origin https://github.com/vmchenni/git-github.git
   03. get git status
   		git status
+  03-A. git add -A //Adding all the file to index
   04. Comit the changed files
  		 git commit -a -m "adding filetogether"
   05. push the file to sever
