@@ -27,7 +27,7 @@ git add -A //Adding all the file to index
   git merge firstbranch//merging code to main franch
   
   
- //pushing existing folder to github
+ //pushing existing folder to github-Added on 13 May 2018
   git remote add origin https://github.com/vmchenni/git-github.git
   git push -u origin master
  
